@@ -7,3 +7,4 @@ S'il y a des erreurs de compilation, checker si vous avez bien installer les bib
 
 Mettre les deux fichiers, dans la carte uSD sans le dossier data.
 
+langage utilisé : C++/HTML+CSS/CSV+Xlsm/ JSON pour platform.IO
